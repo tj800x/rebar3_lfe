@@ -1,7 +1,7 @@
 {erl_opts, [no_debug_info]}.
 
 {deps, [
-    {lfe, "2.1.1"},
+    {lfe, "2.1.2"},
     {ltest, "0.13.4"}
 ]}.
 
